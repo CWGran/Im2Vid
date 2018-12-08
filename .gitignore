@@ -1,3 +1,8 @@
+# Image folder
+images/
+
+# Output video folder
+videos/
 
 # Created by https://www.gitignore.io/api/vim,opencv,python
 # Edit at https://www.gitignore.io/?templates=vim,opencv,python
